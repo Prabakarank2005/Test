@@ -1,1 +1,2 @@
-Import pandas
+import numpy
+import matplotlib.pyplot
